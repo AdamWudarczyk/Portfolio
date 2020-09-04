@@ -42,11 +42,3 @@ Below are my experience and the things I have done/learned to develop my testing
 # Blogs
 - pwicherski.gitbook.io
 - remigiuszbednarczyk.pl
-
-# My test case examples
-
-# My bug reports
-
-# My examples of diagrams and decision tables
-
-# My projects 

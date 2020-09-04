@@ -24,6 +24,7 @@ Below are my experience and the things I have done/learned to develop my testing
 - SQL basics
 - PYTHON basics
 - LINUX basics
+- HTML, CSS , JAVASCRIPT basics
 - GIT
 
 # Certificates 

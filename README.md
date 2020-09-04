@@ -14,25 +14,26 @@ And I find it interesting to solve problems.
 Below are my experience and the things I have done/learned to develop my testing skills.
 
 # Tools
-Jing 
-Postman 
-Jira, Trello
-Selenium IDE
-Github
+- [Jing] 
+- [Postman] 
+- [Jira, Trello]
+- [Selenium IDE]
+- [Github]
 
 # Tech skills
-SQL basics
-PYTHON basics
-Linux basics
-
+- [SQL basics]
+- [PYTHON basics]
+- [LINUX basics]
+- [GIT]
 # Certificates 
 
 # Courses
-Tester oprogramowania from SDACADEMY (114h)
+- [Tester oprogramowania from SDACADEMY (114h)]
 
 # Books
-R.Smilgin - Zawód tester
-ISTQB Certyfikowany Tester - Poziom Podstawowy 2018 - Sylabus (it was book, because I print it :P)
+- [R.Smilgin - Zawód tester]
+- [ISTQB Certyfikowany Tester - Poziom Podstawowy 2018 - Sylabus (it was book, because I print it :P)]
+
 # Groups on Facebook
 
 # Recomended blogs

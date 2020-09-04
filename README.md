@@ -36,8 +36,12 @@ Below are my experience and the things I have done/learned to develop my testing
 - ISTQB Certyfikowany Tester - Poziom Podstawowy 2018 - Sylabus (it was book, because I print it :P)
 
 # Groups on Facebook
+- Cherry-IT
+- Tester oprogramowania - wsparcie na starcie
 
-# Recomended blogs
+# Blogs
+- pwicherski.gitbook.io
+- remigiuszbednarczyk.pl
 
 # My test case examples
 

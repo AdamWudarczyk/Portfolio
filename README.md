@@ -34,7 +34,6 @@ Below are my experience and the things I have done/learned/read to develop my te
 - Tester oprogramowania from SDACADEMY (Bootcamp) 
 - Analiza danych (bootcamp)
 
-
 # Books
 - R.Smilgin - Zawód tester
 - ISTQB Certyfikowany Tester - Poziom Podstawowy 2018 - Sylabus (it was book, because I print it :P)
@@ -50,3 +49,4 @@ Below are my experience and the things I have done/learned/read to develop my te
 - https://jaktestowac.pl/course/pt1-mk1-podstawy-testow-automatycznych-w-selenium-i-python/
 - https://www.softwaretestingmaterial.com/sql-tutorial-complete/
 - https://www.wyszkolewas.com.pl/
+- www.utest.com

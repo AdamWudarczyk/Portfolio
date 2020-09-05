@@ -50,3 +50,4 @@ Below are my experience and the things I have done/learned/read to develop my te
 - https://www.softwaretestingmaterial.com/sql-tutorial-complete/
 - https://www.wyszkolewas.com.pl/
 - www.utest.com
+- https://www.ministryoftesting.com/

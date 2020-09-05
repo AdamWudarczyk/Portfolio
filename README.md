@@ -26,11 +26,14 @@ Below are my experience and the things I have done/learned/read to develop my te
 - LINUX basics
 - HTML, CSS , JAVASCRIPT basics
 - GIT
+- HTTP Protocol basics
 
 # Certificates 
 
 # Courses
-- Tester oprogramowania from SDACADEMY (114h)
+- Tester oprogramowania from SDACADEMY (Bootcamp) 
+- Analiza danych (bootcamp)
+
 
 # Books
 - R.Smilgin - Zawód tester
@@ -40,6 +43,10 @@ Below are my experience and the things I have done/learned/read to develop my te
 - Cherry-IT
 - Tester oprogramowania - wsparcie na starcie
 
-# Blogs
+# Blogs/Sites
 - pwicherski.gitbook.io
 - remigiuszbednarczyk.pl
+- https://www.softwaretestinghelp.com/
+- https://jaktestowac.pl/course/pt1-mk1-podstawy-testow-automatycznych-w-selenium-i-python/
+- https://www.softwaretestingmaterial.com/sql-tutorial-complete/
+- https://www.wyszkolewas.com.pl/

@@ -49,5 +49,5 @@ Below are my experience and the things I have done/learned/read to develop my te
 - https://jaktestowac.pl/course/pt1-mk1-podstawy-testow-automatycznych-w-selenium-i-python/
 - https://www.softwaretestingmaterial.com/sql-tutorial-complete/
 - https://www.wyszkolewas.com.pl/
-- www.utest.com
 - https://www.ministryoftesting.com/
+

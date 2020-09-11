@@ -18,6 +18,8 @@ Below are my experience and the things I have done/learned/read to develop my te
 - Github
 
 # Tech skills
+
+- Writting test cases
 - SQL basics
 - PYTHON basics
 - LINUX basics
@@ -25,11 +27,12 @@ Below are my experience and the things I have done/learned/read to develop my te
 - GIT
 - HTTP Protocol basics
 
+
 # Certificates 
 
 # Courses
-- Tester oprogramowania from SDACADEMY (Bootcamp) 
-- Analiza danych (bootcamp)
+- Tester oprogramowania (Software tester) from SDACADEMY (Bootcamp) 
+- Analiza danych (Data analysis) (bootcamp)
 
 
 # Test case
@@ -38,7 +41,7 @@ Below are my experience and the things I have done/learned/read to develop my te
 
 # Books
 - R.Smilgin - Zawód tester
-- ISTQB Certyfikowany Tester - Poziom Podstawowy 2018 - Sylabus (it was book, because I print it :P)
+- ISTQB Certyfikowany Tester, Poziom Podstawowy 2018 - Sylabus ((ISTQB Certified Tester Foundation Level Syllabus)  (it was book, because I print it :P)
 
 # Groups on Facebook
 - Cherry-IT

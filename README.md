@@ -44,12 +44,20 @@ Below are my experience and the things I have done/learned/read to develop my te
 - Cherry-IT
 - Tester oprogramowania - wsparcie na starcie
 
-# Blogs/Sites
+# Blogs/Sites/Links related to TESTING
 - pwicherski.gitbook.io
 - remigiuszbednarczyk.pl
 - https://www.softwaretestinghelp.com/
 - https://jaktestowac.pl/course/pt1-mk1-podstawy-testow-automatycznych-w-selenium-i-python/
-- https://www.softwaretestingmaterial.com/sql-tutorial-complete/
 - https://www.wyszkolewas.com.pl/
 - https://www.ministryoftesting.com/
+- https://www.vogella.com/tutorials/JUnit/article.html   (JUNIT BASICS)
+- https://learning.postman.com/docs/getting-started/introduction/  (POSTMAN BASICS)
 
+# Blogs/Sites/Links related to IT's things
+- https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=2119s   (PYTHON BASICS)
+- https://www.digitalocean.com/community/tutorials/an-introduction-to-linux-basics (LINUX BASICS)
+- https://www.elated.com/json-basics/   (JSON BASICS)      
+- https://www.softwaretestingmaterial.com/sql-tutorial-complete/  (SQL BASICS)
+- https://www.youtube.com/watch?v=7S_tz1z_5bA (SQL BASICS)
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP (HTTP PROTOCOL OVERVIEW)

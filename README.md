@@ -65,3 +65,4 @@ Below are my experience and the things I have done/learned/read to develop my te
 - https://www.youtube.com/watch?v=7S_tz1z_5bA (SQL BASICS)
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP (HTTP PROTOCOL BASICS)
 - https://bloomhustlegrow.com/trello-basics-the-main-components-of-using-trello/  (TRELLO OVERVIEW)
+- https://learngitbranching.js.org/ (GIT BASICS)

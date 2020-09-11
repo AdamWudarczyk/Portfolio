@@ -3,20 +3,17 @@
 # About me
 Hi, im Adam Wudarczyk. It is nice to have you here!
 
-A few years ago I sat down at the computer, curious, what is it like with this programming? 
-That's how I started learning Python. Later I was wondering "what are these databases?" and I started learning SQL. 
-"And what is it like to make a website?" I wondered. Html, css, JavaScript, came to help me.
-And so I went through a few more languages to finally get to software testing.
-So why testing?
-Because I'm curious to find bugs. I am courius "what and why doesn't work?".
-And I find it interesting to help solve problems.
+Why testing?
+I believe it's one of the courious path for me,
+Creating test cases, exploring application to find bugs, asking "what and why doesn't work?".
+I find it very challanging.
 
 Below are my experience and the things I have done/learned/read to develop my testing skills.
 
 # Tools
 - Jing
 - Postman
-- Jira, Trello
+- Trello
 - Selenium IDE
 - Github
 
@@ -33,6 +30,11 @@ Below are my experience and the things I have done/learned/read to develop my te
 # Courses
 - Tester oprogramowania from SDACADEMY (Bootcamp) 
 - Analiza danych (bootcamp)
+
+
+# Test case
+
+  https://docs.google.com/spreadsheets/d/185ThjsDfv3SDQF_PhNaMRABSfg3mKZStCibdmzoj7pw/edit#gid=0
 
 # Books
 - R.Smilgin - Zawód tester

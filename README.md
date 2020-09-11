@@ -62,6 +62,7 @@ Below are my experience and the things I have done/learned/read to develop my te
 - https://www.vogella.com/tutorials/JUnit/article.html   (JUNIT BASICS)
 - https://learning.postman.com/docs/getting-started/introduction/  (POSTMAN BASICS)
 - https://www.blazemeter.com/
+- https://www.geeksforgeeks.org/unit-testing-python-unittest/ (UNIT TESTING IN PYTHON)
 
 # Blogs/Sites/Links related to IT's things
 - https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=2119s   (PYTHON BASICS)

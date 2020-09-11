@@ -1,6 +1,7 @@
 # Portfolio
 
 # About me
+```
 Hi, im Adam Wudarczyk. It is nice to have you here!
 
 Why testing?
@@ -9,6 +10,7 @@ Creating test cases, exploring application to find bugs, asking "what and why do
 I find it very challanging.
 
 Below are my experience and the things I have done/learned/read to develop my testing skills.
+```
 
 # Tools
 - Jing

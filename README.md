@@ -39,9 +39,13 @@ Below are my experience and the things I have done/learned/read to develop my te
 - Analiza danych (Data analysis) (bootcamp)
 
 
-# Test case
+# My Test cases
 
   https://docs.google.com/spreadsheets/d/185ThjsDfv3SDQF_PhNaMRABSfg3mKZStCibdmzoj7pw/edit#gid=0
+
+# Projects 
+
+
 
 # Books
 - R.Smilgin - Zawód tester

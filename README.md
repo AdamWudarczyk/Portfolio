@@ -17,7 +17,7 @@ Below are my experience and the things I have done/learned/read to develop my te
 - Trello
 - Selenium IDE
 - Github
-
+- Pycharm
 
 
 # Tech skills
@@ -32,26 +32,19 @@ Below are my experience and the things I have done/learned/read to develop my te
 - GIT
 - HTTP Protocol basics
 
-
-# Certificates 
+# Projects 
+  **My test cases**
+  https://docs.google.com/spreadsheets/d/185ThjsDfv3SDQF_PhNaMRABSfg3mKZStCibdmzoj7pw/edit#gid=0    (PL)
+  https://docs.google.com/spreadsheets/d/1PnuYVP5g1C0YDERv0wTDeqvG1vIOz5AJntjE4lwjwI8/edit#gid=0    (ENG)
+  **Risk analysis**
+  https://docs.google.com/spreadsheets/d/1xkdW6ToSPU_Cusib41dLmfacrxIAcZKSFDr8-JCkLmQ/edit#gid=0    (PL)
 
 # Courses
 - Tester oprogramowania (Software tester) from SDACADEMY (Bootcamp)  **On progress** 
 - Analiza danych (Data analysis) (bootcamp)  **Finished**
 
 
-# My Test cases
-
-  https://docs.google.com/spreadsheets/d/185ThjsDfv3SDQF_PhNaMRABSfg3mKZStCibdmzoj7pw/edit#gid=0    (PL)
-  https://docs.google.com/spreadsheets/d/1PnuYVP5g1C0YDERv0wTDeqvG1vIOz5AJntjE4lwjwI8/edit#gid=0    (ENG)
-  
-# Risk analysis 
-
-  https://docs.google.com/spreadsheets/d/1xkdW6ToSPU_Cusib41dLmfacrxIAcZKSFDr8-JCkLmQ/edit#gid=0    (PL)
-
-
-# Projects 
-
+# Certificates 
 
 
 # Books

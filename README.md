@@ -29,7 +29,7 @@ Below are my experience and the things I have done/learned/read to develop my te
 - PYTHON basicss
 - HTML, CSS  basics
 - LINUX basic
-- GIT
+- GIT basics 
 - HTTP Protocol basics
 
 # Projects 

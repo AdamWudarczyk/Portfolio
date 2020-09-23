@@ -23,8 +23,8 @@ Below are my experience and the things I have done/learned/read to develop my te
 # Tech skills
 
 - Writting test cases
-- Writting unit tests (in Python - basics)
 - Selenium basics
+
 - SQL basics
 - PYTHON basicss
 - HTML, CSS  basics
@@ -43,6 +43,7 @@ Below are my experience and the things I have done/learned/read to develop my te
 # My Test cases
 
   https://docs.google.com/spreadsheets/d/185ThjsDfv3SDQF_PhNaMRABSfg3mKZStCibdmzoj7pw/edit#gid=0    (PL)
+  https://docs.google.com/spreadsheets/d/1PnuYVP5g1C0YDERv0wTDeqvG1vIOz5AJntjE4lwjwI8/edit#gid=0    (ENG)
   
 # Risk analysis 
 

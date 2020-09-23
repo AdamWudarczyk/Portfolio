@@ -14,7 +14,6 @@ Below are my experience and the things I have done/learned/read to develop my te
 
 # Tools
 - Jing
-- Postman
 - Trello
 - Selenium IDE
 - Github
@@ -24,10 +23,12 @@ Below are my experience and the things I have done/learned/read to develop my te
 # Tech skills
 
 - Writting test cases
+- Writting unit tests (in Python - basics)
+- Selenium basics
 - SQL basics
-- PYTHON basics
-- LINUX basics
-- HTML, CSS , JAVASCRIPT basics
+- PYTHON basicss
+- HTML, CSS  basics
+- LINUX basic
 - GIT
 - HTTP Protocol basics
 
@@ -35,13 +36,18 @@ Below are my experience and the things I have done/learned/read to develop my te
 # Certificates 
 
 # Courses
-- Tester oprogramowania (Software tester) from SDACADEMY (Bootcamp) 
-- Analiza danych (Data analysis) (bootcamp)
+- Tester oprogramowania (Software tester) from SDACADEMY (Bootcamp)  **On progress** 
+- Analiza danych (Data analysis) (bootcamp)  **Finished**
 
 
 # My Test cases
 
-  https://docs.google.com/spreadsheets/d/185ThjsDfv3SDQF_PhNaMRABSfg3mKZStCibdmzoj7pw/edit#gid=0
+  https://docs.google.com/spreadsheets/d/185ThjsDfv3SDQF_PhNaMRABSfg3mKZStCibdmzoj7pw/edit#gid=0    (PL)
+  
+# Risk analysis 
+
+  https://docs.google.com/spreadsheets/d/1xkdW6ToSPU_Cusib41dLmfacrxIAcZKSFDr8-JCkLmQ/edit#gid=0    (PL)
+
 
 # Projects 
 

@@ -35,7 +35,7 @@ Below are my experience and the things I have done/learned/read to develop my te
 # Projects 
   - https://docs.google.com/spreadsheets/d/185ThjsDfv3SDQF_PhNaMRABSfg3mKZStCibdmzoj7pw/edit#gid=0 (**TEST CASE**)   (PL)
   - https://docs.google.com/spreadsheets/d/1PnuYVP5g1C0YDERv0wTDeqvG1vIOz5AJntjE4lwjwI8/edit#gid=0 (**TEST CASE**)   (ENG)
-  - https://docs.google.com/spreadsheets/d/1xkdW6ToSPU_Cusib41dLmfacrxIAcZKSFDr8-JCkLmQ/edit#gid=0(**RISK ANALYSIS**)    (PL)
+  - https://docs.google.com/spreadsheets/d/1xkdW6ToSPU_Cusib41dLmfacrxIAcZKSFDr8-JCkLmQ/edit#gid=0 (**RISK ANALYSIS**)    (PL)
 
 # Courses
 - Tester oprogramowania (Software tester) from SDACADEMY (Bootcamp)  **On progress** 

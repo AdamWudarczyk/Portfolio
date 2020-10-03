@@ -63,7 +63,7 @@ Below are my experience and the things I have done/learned/read to develop my te
 - pwicherski.gitbook.io
 - remigiuszbednarczyk.pl
 - https://www.softwaretestinghelp.com/
-- https://jaktestowac.pl/course/pt1-mk1-podstawy-testow-automatycznych-w-selenium-i-python/
+- https://jaktestowac.pl/course/pt1-mk1-podstawy-testow-automatycznych-w-selenium-i-python/ (TEST AUTOMATION)
 - https://www.wyszkolewas.com.pl/
 - https://www.ministryoftesting.com/
 - https://www.vogella.com/tutorials/JUnit/article.html   (JUNIT BASICS)

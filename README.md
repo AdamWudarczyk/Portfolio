@@ -53,7 +53,7 @@ Below are my experience and the things I have done/learned/read to develop my te
 - ISTQB Certyfikowany Tester, Poziom Podstawowy 2018 - Sylabus (ISTQB Certified Tester Foundation Level Syllabus)
   (it was book, because I print it :P)
 - R.Smilgin - Praktyka testowania Zeszyt ćwiczeń (Practical exercises for testing)
-- A.Axelrod - Automatyzacja testów. Kompletny przewodnik dla testerów oprogramowania	(about Test Automation) **On progress** 
+- A.Axelrod - Automatyzacja testów. Kompletny przewodnik dla testerów oprogramowania	(Complete Guide to Test Automation) **On progress** 
 
 # Groups on Facebook
 - Cherry-IT

@@ -45,6 +45,8 @@ Below are my experience and the things I have done/learned/read to develop my te
 
 # Certificates 
 
+- DATA ANALISIS (EXCEL, ACCESS, SQL) https://docs.google.com/document/d/1UwRGlCxI7furG2QUTQK1f8MHV9I2yGLRqlMOdk7fi0Q/edit?usp=sharing  
+
 
 # Books
 - R.Smilgin - Zawód tester

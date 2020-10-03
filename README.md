@@ -25,6 +25,7 @@ Below are my experience and the things I have done/learned/read to develop my te
 
 - Writting test cases
 - Selenium basics
+- ISTQB knowledge
 
 - SQL basics
 - PYTHON basicss

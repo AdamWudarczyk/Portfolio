@@ -7,7 +7,7 @@ Hi, I'm Adam Wudarczyk. It is nice to have you here!
 Why testing?
 I believe it's one of the courious path for me,
 Creating test cases, exploring application to find bugs, asking "what and why doesn't work?".
-I find it very challanging, and quite interesting.
+I find it very challenging, and quite interesting.
 
 Below are my experience and the things I have done/learned/read to develop my testing skills.
 ```

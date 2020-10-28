@@ -56,3 +56,10 @@ Below are my experience and the things I have done/learned/read to develop my te
   (it was book, because I print it :P)
 - R.Smilgin - Praktyka testowania Zeszyt ćwiczeń (Practical exercises for testing)
 - A.Axelrod - Automatyzacja testów. Kompletny przewodnik dla testerów oprogramowania	(Complete Guide to Test Automation)
+
+# Education
+- Bachelor's degree in English Philology (Wszechnica Polska in Warsaw)
+
+# Languages 
+- Polish (Native)
+- English (C1)

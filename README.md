@@ -42,7 +42,7 @@ Below are my experience and the things I have done/learned/read to develop my te
 
 # Courses
 - Tester oprogramowania (Software tester) from SDACADEMY (Bootcamp)  **On progress** 
-- Python Essentials from Python institute **On progress**
+- Python Essentials from OpenEDG Python Institute & Cisco Networking Academy **On progress**
 - Analiza danych (Data analysis) (bootcamp)  **Finished**
 
 

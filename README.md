@@ -14,7 +14,6 @@ Below are my experience and the things I have done/learned/read to develop my te
 
 # Tools
 - Jing
-- Trello
 - Jira
 - Test Rail
 - Selenium WebDriver

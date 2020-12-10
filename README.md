@@ -20,16 +20,20 @@ Below are my experience and the things I have done/learned/read to develop my te
 - Selenium WebDriver
 - Github
 - Pycharm
+- IntelliJ
 
 
 # Tech skills
 
-- Writting test cases
+- Writting test cases, test scenario's
+- Reporting bugs
+- Writting automation test
 - Selenium basics
 - ISTQB knowledge
 
 - SQL basics
-- PYTHON basicss
+- JAVA basics
+- PYTHON basics
 - HTML, CSS  basics
 - LINUX basic
 - GIT basics 

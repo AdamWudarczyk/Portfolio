@@ -38,22 +38,20 @@ Below are my experience and the things I have done/learned/read to develop my te
 - HTTP Protocol basics
 
 # Projects 
-  - https://docs.google.com/spreadsheets/d/1PnuYVP5g1C0YDERv0wTDeqvG1vIOz5AJntjE4lwjwI8/edit?usp=sharing (**TEST CASE**)   (ENG)
-  - https://docs.google.com/spreadsheets/d/185ThjsDfv3SDQF_PhNaMRABSfg3mKZStCibdmzoj7pw/edit?usp=sharing (**TEST CASE**)   (PL)
+  - https://docs.google.com/spreadsheets/d/1PnuYVP5g1C0YDERv0wTDeqvG1vIOz5AJntjE4lwjwI8/edit?usp=sharing (**TEST SCENARIO**)   (ENG)
+  - https://docs.google.com/spreadsheets/d/185ThjsDfv3SDQF_PhNaMRABSfg3mKZStCibdmzoj7pw/edit?usp=sharing (**TEST SCENARIO**)   (PL)
   - https://github.com/AdamWudarczyk/Javaprojects/tree/main/web-automation-test (**AUTOMATION TEST**) **On progress**
 
 
 # Courses
-- Tester oprogramowania (Software tester) from SDACADEMY (Bootcamp)  **On progress** 
-- Python Essentials from OpenEDG Python Institute & Cisco Networking Academy **On progress**
+- Tester oprogramowania (Software tester) from SDACADEMY (Bootcamp) 
 - Analiza danych (Data analysis) (bootcamp)  **Finished**
 
 
 
 # Certificates 
-
 - DATA ANALISIS (EXCEL, ACCESS, SQL) https://docs.google.com/document/d/1UwRGlCxI7furG2QUTQK1f8MHV9I2yGLRqlMOdk7fi0Q/edit?usp=sharing  
-- Software tester (TESTING, JAVA (JUNIT), POSTMAN, JIRA, TEST RAIL, SQL) **On progress**
+- Software tester (TESTING, JAVA (JUNIT), POSTMAN, JIRA, TEST RAIL, SQL)
 
 # Books
 - R.Smilgin - Zawód tester

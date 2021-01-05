@@ -44,14 +44,14 @@ Below are my experience and the things I have done/learned/read to develop my te
 
 
 # Courses
-- Tester oprogramowania (Software tester) from SDACADEMY (Bootcamp) 
+- Tester oprogramowania (Software tester) from SDACADEMY (Bootcamp) **Finished**
 - Analiza danych (Data analysis) (bootcamp)  **Finished**
 
 
 
 # Certificates 
 - DATA ANALISIS (EXCEL, ACCESS, SQL) https://docs.google.com/document/d/1UwRGlCxI7furG2QUTQK1f8MHV9I2yGLRqlMOdk7fi0Q/edit?usp=sharing  
-- Software tester (TESTING, JAVA (JUNIT), POSTMAN, JIRA, TEST RAIL, SQL)
+- SOFTWARE TESTER https://app.diplomasafe.com/pl-PL/diploma/d60df6bb54340991930131a18791f159ffa68c257/tester-oprogramowania
 
 # Books
 - R.Smilgin - Zawód tester

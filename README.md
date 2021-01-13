@@ -2,14 +2,12 @@
 
 # About me
 ```
-Hi, I'm Adam Wudarczyk. It is nice to have you here!
+Hi, I'm Adam Wudarczyk. It's nice to have you here!
 
-Why testing?
-I believe it's one of the courious path for me,
-Creating test cases, exploring application to find bugs, asking "what and why doesn't work?".
-I find it very challenging, and quite interesting.
+Why testing software?
+I believe it's one of the courious path for me.
 
-Below are my experience and the things I have done/learned/read to develop my testing skills.
+Below is my experience and the things I have done/learned/read to develop my testing skills.
 ```
 
 # Tools

@@ -38,7 +38,8 @@ Below is my experience and the things I have done/learned/read to develop my tes
 # Projects 
   - https://docs.google.com/spreadsheets/d/1PnuYVP5g1C0YDERv0wTDeqvG1vIOz5AJntjE4lwjwI8/edit?usp=sharing (**TEST SCENARIO**)   (ENG)
   - https://docs.google.com/spreadsheets/d/185ThjsDfv3SDQF_PhNaMRABSfg3mKZStCibdmzoj7pw/edit?usp=sharing (**TEST SCENARIO**)   (PL)
-  - https://github.com/AdamWudarczyk/Javaprojects/tree/main/web-automation-test (**AUTOMATION TEST**) **On progress**
+  - https://github.com/AdamWudarczyk/PythonProjects/blob/main/calc_test.py (**AUTOMATION TEST**,**PYTHON**) 
+  - https://github.com/AdamWudarczyk/Javaprojects/tree/main/web-automation-test (**AUTOMATION TEST**,**JAVA**) **On progress**
 
 
 # Courses

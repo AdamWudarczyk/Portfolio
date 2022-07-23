@@ -21,6 +21,9 @@ Below is my experience and the things I have done/learned/read to develop my tes
 - GIT
 - SELENIUM
 - LINUX
+- SQL/SOQL
+- APEX
+- PYTHON
 
 # Tech skills
 - Analysing functional/non-functional requirements and challenging Product Teams in case of spotted inconsistencies.
@@ -32,20 +35,14 @@ Below is my experience and the things I have done/learned/read to develop my tes
 - Identifying any applying possible improvements to Test Process or even Tested Software.
 - Performing functional, system, UI/API tests.
 
-
-- PYTHON basics
-- LINUX basic
-- GIT basics 
-- SQL basics
-- Apex basics
-
-
+```
 # Projects 
   - https://docs.google.com/spreadsheets/d/1PnuYVP5g1C0YDERv0wTDeqvG1vIOz5AJntjE4lwjwI8/edit?usp=sharing (**TEST SCENARIO**)   (ENG)
   - https://docs.google.com/spreadsheets/d/185ThjsDfv3SDQF_PhNaMRABSfg3mKZStCibdmzoj7pw/edit?usp=sharing (**TEST SCENARIO**)   (PL)
   - https://github.com/AdamWudarczyk/PythonProjects/blob/main/calc_test.py (**AUTOMATION TEST**,**PYTHON**) 
   - https://github.com/AdamWudarczyk/PythonProjects/blob/main/fizzbuzz.py (**AUTOMATION TEST**,**PYTHON**) **On progress**
   - https://github.com/AdamWudarczyk/Javaprojects/tree/main/web-automation-test (**AUTOMATION TEST**,**JAVA**) **On progress**
+```
 
 # Courses
 - Tester oprogramowania (Software tester) from SDACADEMY (Bootcamp) **Finished**

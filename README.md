@@ -18,9 +18,9 @@ Below is my experience and the things I have done/learned/read to develop my tes
 - WorkDay
 
 **Selfdevelopment**:
-GIT
-SELENIUM
-LINUX
+- GIT
+- SELENIUM
+- LINUX
 
 # Tech skills
 - Analysing functional/non-functional requirements and challenging Product Teams in case of spotted inconsistencies.

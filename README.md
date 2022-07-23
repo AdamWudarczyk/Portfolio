@@ -4,36 +4,40 @@
 ```
 Hi, I'm Adam Wudarczyk. It's nice to have you here!
 
-Why testing software?
-I believe it's one of the courious path for me.
-
 Below is my experience and the things I have done/learned/read to develop my testing skills.
 ```
 
-# Tools
-- Jira
-- Test Rail
-- Selenium WebDriver
-- Github
-- Pycharm
-- IntelliJ
+# **STACK**
 
+# Tools
+**Used in my current job**:
+- PForce (alternative for Jira)
+- Salesforce
+- ServiceNow
+- Github
+- WorkDay
+**Selfdevelopment**:
+GIT
+SELENIUM
+LINUX
 
 # Tech skills
+- Analysing functional/non-functional requirements and challenging Product Teams in case of spotted inconsistencies.
+- Designing Test Plans and Test Cases based on the requirements and project needs.
+- Taking care of the project’s testware.
+- Reporting & Controlling defects.
+- Support in analysis of complex business scenarios.
+- Cooperating with analysts, developers and product owners from all over the world.
+- Identifying any applying possible improvements to Test Process or even Tested Software.
+- Performing functional, system, UI/API tests.
 
-- Writting test cases, test scenario's
-- Reporting bugs
-- Writting automation test
-- Selenium basics
-- ISTQB knowledge
 
-- SQL basics
-- JAVA basics
 - PYTHON basics
-- HTML, CSS  basics
 - LINUX basic
 - GIT basics 
-- HTTP Protocol basics
+- SQL basics
+- Apex basics
+
 
 # Projects 
   - https://docs.google.com/spreadsheets/d/1PnuYVP5g1C0YDERv0wTDeqvG1vIOz5AJntjE4lwjwI8/edit?usp=sharing (**TEST SCENARIO**)   (ENG)
@@ -42,27 +46,10 @@ Below is my experience and the things I have done/learned/read to develop my tes
   - https://github.com/AdamWudarczyk/PythonProjects/blob/main/fizzbuzz.py (**AUTOMATION TEST**,**PYTHON**) **On progress**
   - https://github.com/AdamWudarczyk/Javaprojects/tree/main/web-automation-test (**AUTOMATION TEST**,**JAVA**) **On progress**
 
-
 # Courses
 - Tester oprogramowania (Software tester) from SDACADEMY (Bootcamp) **Finished**
 - Analiza danych (Data analysis) (bootcamp)  **Finished**
 
-
-
 # Certificates 
 - DATA ANALISIS (EXCEL, ACCESS, SQL) https://docs.google.com/document/d/1UwRGlCxI7furG2QUTQK1f8MHV9I2yGLRqlMOdk7fi0Q/edit?usp=sharing  
 - SOFTWARE TESTER https://app.diplomasafe.com/pl-PL/diploma/d60df6bb54340991930131a18791f159ffa68c257/tester-oprogramowania
-
-# Books
-- R.Smilgin - Zawód tester
-- ISTQB Certyfikowany Tester, Poziom Podstawowy 2018 - Sylabus (ISTQB Certified Tester Foundation Level Syllabus)
-  (it was book, because I print it :P)
-- R.Smilgin - Praktyka testowania Zeszyt ćwiczeń (Practical exercises for testing)
-- A.Axelrod - Automatyzacja testów. Kompletny przewodnik dla testerów oprogramowania	(Complete Guide to Test Automation)
-
-# Education
-- Bachelor's degree in English Philology (Wszechnica Polska in Warsaw)
-
-# Languages 
-- Polish (Native)
-- English (C1)

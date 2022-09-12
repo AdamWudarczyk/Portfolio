@@ -4,7 +4,7 @@
 ```
 Hi, I'm Adam Wudarczyk. It's nice to have you here!
 
-Below is my experience and the things I have done/learned/read to develop my testing skills.
+Below is my experience and the things I have done and learned to develop my testing skills.
 ```
 
 # **STACK**

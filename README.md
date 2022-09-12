@@ -39,7 +39,6 @@ Below is my experience and the things I have done/learned/read to develop my tes
 # Projects 
 ```
   - https://github.com/AdamWudarczyk/PythonProjects/blob/main/calc_test.py (**AUTOMATION TEST**,**PYTHON**) 
-  - https://github.com/AdamWudarczyk/PythonProjects/blob/main/fizzbuzz.py (**AUTOMATION TEST**,**PYTHON**) **On progress**
   - https://github.com/AdamWudarczyk/Javaprojects/tree/main/web-automation-test (**AUTOMATION TEST**,**JAVA**) **On progress**
 ```
 
